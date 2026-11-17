@@ -47,7 +47,7 @@ Crest Water 5 is now available.
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=LZfXQbVEaYc" target="_blank"><img src="https://img.youtube.com/vi/LZfXQbVEaYc/0.jpg" alt="Sonorous" width="33%" height="auto" /></a>
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=EExodzbapmo" target="_blank"><img src="https://img.youtube.com/vi/EExodzbapmo/0.jpg" alt="De Leon Legends VR Game" width="33%" height="auto" /></a>
 <a href="https://www.youtube.com/watch?feature=player_embedded&v=6KC13zGgbOA" target="_blank"><img src="https://img.youtube.com/vi/6KC13zGgbOA/0.jpg" alt="Kredolis | Announcement Trailer" width="33%" height="auto" /></a>
-<a href="https://www.youtube.com/watch?feature=player_embedded&v=Qfy5P4Zygvs" target="_blank"><img src="https://img.youtube.com/vi/Qfy5P4Zygvs/0.jpg" alt="Morild Navigator" width="33%" height="auto" /></a>
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=Qtf2tJEKRc4" target="_blank"><img src="https://img.youtube.com/vi/Qtf2tJEKRc4/0.jpg" alt="The Free Shepherd - Announcement Trailer" width="33%" height="auto" /></a>
 </p>
 
 <br>
